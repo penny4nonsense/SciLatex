@@ -26,7 +26,7 @@
 ### Build Instructions (Windows / Linux)
 
 ```bash
-git clone https://github.com/YOURUSERNAME/SciLatex.git
+git clone https://github.com/penny4nonsense/SciLatex.git
 cd SciLatex
 mkdir build && cd build
 cmake .. -G Ninja -DCMAKE_PREFIX_PATH="path/to/Qt"
