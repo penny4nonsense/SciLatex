@@ -46,11 +46,12 @@ SciLatex currently does **not** support native Mac builds out of the box. Howeve
 
 ```
 SciLatex/
-├── src/                # Main source code
-├── vendor/             # Vendorized dependencies (excluding Qt)
-├── resources/          # Icons, themes, UI files
-├── build/              # Temporary build folder
-└── CMakeLists.txt      # CMake build script
+├── build/              # Temporary build artifacts
+├── third_party/        # Vendorized dependencies (excluding Qt)
+├── *.cpp, *.h          # All source files live in the project root
+├── CMakeLists.txt      # Main build script
+├── .gitignore
+├── todo.txt
 ```
 
 ## 🛣️ Roadmap / Next Steps
