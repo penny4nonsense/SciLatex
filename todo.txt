@@ -1,0 +1,20 @@
+Major tasks still needed:
+stack system for working through spaces with tab
+Do math\text switching
+Recent
+
+Minor tasks still needed:
+Add ([{< and decorators when some text is highlighted
+
+Very minor tasks:
+
+Later:
+Matlab 2d and 3d plots
+Import/export
+Spelling and grammar
+
+Bug fixes:
+Fix the stuck keychain bug
+Left arrow doesn't go back over latex \item
+Can't backspace keychain in status bar (it actually works under the hood). 
+Ctrl+{ doesn't do what it's supposed to.

@@ -1,0 +1,79 @@
+cmake_minimum_required(VERSION 3.16)
+
+# Top-level project declaration
+project(SciLatex VERSION 0.2 LANGUAGES CXX)
+
+# Enable Qt's automatic handling of UIC, MOC, and RCC
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
+
+# Set the C++ standard
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Specify vcpkg toolchain file (if using vcpkg)
+set(CMAKE_TOOLCHAIN_FILE "C:/Users/jason/vcpkg/scripts/buildsystems/vcpkg.cmake" CACHE STRING "Vcpkg toolchain file")
+
+# Manually set CURL include and library paths
+set(CURL_INCLUDE_DIR "C:/Users/jason/vcpkg/installed/x64-windows/include")
+set(CURL_LIBRARY "C:/Users/jason/vcpkg/installed/x64-windows/lib/libcurl.lib")
+
+# Find necessary Qt modules
+find_package(Qt6 REQUIRED COMPONENTS Widgets WebEngineWidgets WebChannel Pdf PdfWidgets Core)
+set(nlohmann_json_DIR "C:/Users/jason/vcpkg/installed/x64-windows/share/nlohmann_json")
+find_package(nlohmann_json CONFIG REQUIRED)
+
+# Define project sources
+set(SCILATEX_SOURCES
+    main.cpp
+    mainwindow.cpp
+    mainwindow.h
+    keyutils.h
+    navigation.h navigation.cpp
+    matrixmode.h matrixmode.cpp
+    bracketchooserdialog.h bracketchooserdialog.cpp
+    operatordialog.h operatordialog.cpp
+    preferencesmanager.h preferencesmanager.cpp
+    preferencesdialog.h preferencesdialog.cpp
+    matlabutils.h matlabutils.cpp
+)
+
+# Add the SciLatex executable
+qt_add_executable(SciLatex
+    MANUAL_FINALIZATION
+    ${SCILATEX_SOURCES}
+    mathnamedialog.h mathnamedialog.cpp
+    labeldialog.h labeldialog.cpp
+    decoratordialog.h decoratordialog.cpp
+    spacingdialog.h spacingdialog.cpp
+    previewwindow.h previewwindow.cpp
+)
+
+# Link SciLatex against required libraries
+target_link_libraries(SciLatex PRIVATE
+    Qt6::Widgets
+    Qt6::WebEngineWidgets
+    Qt6::WebChannel
+    Qt6::Pdf
+    Qt6::PdfWidgets
+    Qt6::Core
+    nlohmann_json::nlohmann_json
+    ${CURL_LIBRARY}
+)
+
+# Set application properties for SciLatex
+set_target_properties(SciLatex PROPERTIES
+    MACOSX_BUNDLE TRUE
+    WIN32_EXECUTABLE TRUE
+)
+
+# Finalize the SciLatex executable for Qt 6
+qt_finalize_executable(SciLatex)
+
+# Install rules for the SciLatex application
+install(TARGETS SciLatex
+    BUNDLE DESTINATION .
+    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
+    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+)
