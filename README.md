@@ -17,13 +17,31 @@
 
 ### Prerequisites
 
+Windows x64 version: None
+Building on Mac/Linux:
 - Qt 6.8+ (Only dependency not vendorized — must be installed separately)
 - CMake 3.16+
 - C++17-compatible compiler
 
 > Note: All other required libraries are vendorized. You don’t need to install them separately.
 
-### Build Instructions (Windows / Linux)
+### Build Instructions (Windows)
+
+No need to build — just download and run:
+
+📦 [Download SciLatex for Windows](http://www.github.com/penny4nonsense/SciLatex/SciLatex_Windows_x64.zip)
+- Extract the ZIP
+- Run SciLatex.exe inside the folder
+- No installation required
+
+If you want to build from source, use Qt Creator:
+
+- Open CMakeLists.txt in Qt Creator
+- Choose your Qt 6 kit (MSVC 64-bit)
+- Configure and build
+- Run the application directly
+
+### Build Instructions (Mac / Linux)
 
 ```bash
 git clone https://github.com/penny4nonsense/SciLatex.git
@@ -38,25 +56,30 @@ If you're on Windows, you can also build the project using **Qt Creator**:
 2. Configure the project using your installed Qt kit  
 3. Build and run
 
-### Mac Support
-
-SciLatex currently does **not** support native Mac builds out of the box. However, you may be able to cross-compile with the appropriate toolchains. This is a work in progress.
-
 ## 🗂️ Folder Structure
 
 ```
 SciLatex/
-├── build/              # Temporary build artifacts
-├── third_party/        # Vendorized dependencies (excluding Qt)
-├── *.cpp, *.h          # All source files live in the project root
-├── CMakeLists.txt      # Main build script
+├── build/                      # Temporary build artifacts (ignored)
+├── portable_windows_x64/      # Final distributable (ignored)
+├── source/                    # All source/header files
+│   ├── main.cpp
+│   ├── mainwindow.cpp
+│   ├── ...
+│   └── CMakeLists.txt         # Source-specific CMake
+├── third_party/               # Vendored dependencies (e.g., curl)
 ├── .gitignore
-├── todo.txt
+├── CMakeLists.txt             # Top-level build config
+├── LICENSE                    # Your software license
+├── README.md                  # Project description & build info
+├── SciLatex_windows_x64.zip   # Windows portable zip folder
+├── todo.txt                   # Development notes
+
 ```
 
 ## 🛣️ Roadmap / Next Steps
 
-- [ ] **Create Windows distributable** using `windeployqt` and installer packaging  
+- [X] **Create Windows distributable** using `windeployqt` and installer packaging  
 - [ ] **Build Linux distributable** with all dependencies bundled for easy install  
 - [ ] **Add spelling and grammar checker** (suggested: integrate `hunspell` or `LanguageTool`)  
 - [ ] **Implement tab-based placeholder navigation** for smooth editing and cursor movement  
