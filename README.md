@@ -29,7 +29,7 @@ Building on Mac/Linux:
 
 No need to build — just download and run:
 
-📦 [Download SciLatex for Windows](http://www.github.com/penny4nonsense/SciLatex/SciLatex_Windows_x64.zip)
+📦 [Download SciLatex for Windows](http://www.github.com/penny4nonsense/SciLatex/SciLatex-Windows-x64.zip)
 - Extract the ZIP
 - Run SciLatex.exe inside the folder
 - No installation required
@@ -72,7 +72,7 @@ SciLatex/
 ├── CMakeLists.txt             # Top-level build config
 ├── LICENSE                    # Your software license
 ├── README.md                  # Project description & build info
-├── SciLatex_windows_x64.zip   # Windows portable zip folder
+├── SciLatex-Windows-x64.zip   # Windows portable zip folder
 ├── todo.txt                   # Development notes
 
 ```
