@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"third_party/curl/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "libcurl_static_autogen_timestamp_deps::@6b6918482087d6a4c893"
+		}
+	],
+	"id" : "libcurl_static_autogen::@6b6918482087d6a4c893",
+	"isGeneratorProvided" : true,
+	"name" : "libcurl_static_autogen",
+	"paths" : 
+	{
+		"build" : "third_party/curl/lib",
+		"source" : "third_party/curl/lib"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/CMakeFiles/libcurl_static_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/CMakeFiles/libcurl_static_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/libcurl_static_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

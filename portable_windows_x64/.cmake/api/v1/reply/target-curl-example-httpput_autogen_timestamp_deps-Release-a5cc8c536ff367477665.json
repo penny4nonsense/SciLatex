@@ -1,0 +1,34 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"third_party/curl/docs/examples/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "libcurl_static::@6b6918482087d6a4c893"
+		}
+	],
+	"id" : "curl-example-httpput_autogen_timestamp_deps::@17fe8ebcbc87ca336164",
+	"isGeneratorProvided" : true,
+	"name" : "curl-example-httpput_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "third_party/curl/docs/examples",
+		"source" : "third_party/curl/docs/examples"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

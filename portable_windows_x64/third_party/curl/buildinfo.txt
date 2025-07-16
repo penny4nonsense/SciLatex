@@ -1,0 +1,15 @@
+# This is a generated file.  Do not edit.
+buildinfo.configure.tool: cmake
+buildinfo.configure.command: C:/Qt/Tools/CMake_64/bin/cmake.exe
+buildinfo.configure.version: 3.29.3
+buildinfo.configure.args:
+buildinfo.configure.generator: Ninja
+buildinfo.configure.make: C:/PROGRA~2/MICROS~2/2022/BUILDT~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe
+buildinfo.host.cpu: AMD64
+buildinfo.host.os: Windows
+buildinfo.target.cpu: AMD64
+buildinfo.target.os: Windows
+buildinfo.target.flags: WIN32 MSVC-1935
+buildinfo.compiler: MSVC
+buildinfo.compiler.version: 19.35.32215.0
+buildinfo.sysroot: 

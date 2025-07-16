@@ -1,0 +1,27 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"third_party/curl/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "libcurl_static_autogen_timestamp_deps::@6b6918482087d6a4c893",
+	"isGeneratorProvided" : true,
+	"name" : "libcurl_static_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "third_party/curl/lib",
+		"source" : "third_party/curl/lib"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

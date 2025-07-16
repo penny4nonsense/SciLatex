@@ -1,74 +1,101 @@
-# This file is used to ignore files which are generated
-# ----------------------------------------------------------------------------
-
+# ----------------------
+# General temporary files
+# ----------------------
 *~
 *.autosave
+.#*
+*.*#
+*.orig
+*.rej
+*.flc
+*.swp
+.directory
+.DS_Store
+Thumbs.db
+tags
+
+# ----------------------
+# C++/Build artifacts
+# ----------------------
 *.a
 *.core
 *.moc
 *.o
 *.obj
-*.orig
-*.rej
 *.so
 *.so.*
-*_pch.h.cpp
-*_resource.rc
+*.dll
+*.exe
+*.res
+*.rc
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.manifest
+
+# ----------------------
+# Qt / Qt Creator
+# ----------------------
 *.qm
-.#*
-*.*#
-core
-!core/
-tags
-.DS_Store
-.directory
-*.debug
-Makefile*
 *.prl
-*.app
+*.pro.user*
+*.qmake.cache
+*.qmake.stash
+*.qrc.depends
 moc_*.cpp
 ui_*.h
 qrc_*.cpp
-Thumbs.db
-*.res
-*.rc
-/.qmake.cache
-/.qmake.stash
+*.Debug
+*.Release
 
-# qtcreator generated files
-*.pro.user*
-CMakeLists.txt.user*
-
-# xemacs temporary files
-*.flc
-
-# Vim temporary files
-.*.swp
-
-# Visual Studio generated files
-*.ib_pdb_index
-*.idb
-*.ilk
-*.pdb
+# ----------------------
+# Visual Studio
+# ----------------------
 *.sln
 *.suo
 *.vcproj
 *vcproj.*.*.user
+*.vcxproj
+*vcxproj.*
 *.ncb
 *.sdf
 *.opensdf
-*.vcxproj
-*vcxproj.*
+*.ipch
+*.tlog
+*.log
+*.obj
+*.db
+*.idb
+*.iobj
+*.ipdb
+*.pch
 
-# MinGW generated files
-*.Debug
-*.Release
+# ----------------------
+# CMake-generated files
+# ----------------------
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile*
+CMakeLists.txt.user*
 
-# Python byte code
+# ----------------------
+# Python bytecode (if any scripting)
+# ----------------------
 *.pyc
+__pycache__/
 
-# Binaries
-# --------
-*.dll
-*.exe
+# ----------------------
+# Application-specific: SciLatex
+# ----------------------
 
+# Ignore build directory
+build/
+
+# Ignore vcpkg or other vendored third-party build systems (optional)
+third_party/build/
+third_party/.vs/
+third_party/vcpkg_installed/
+third_party/CMakeFiles/
+third_party/CMakeCache.txt

@@ -1,0 +1,3395 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./libcurl_object_autogen/mocs_compilation.cpp.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./altsvc.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./amigaos.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./asyn-ares.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./asyn-base.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./asyn-thrdd.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./bufq.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./bufref.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cf-h1-proxy.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cf-h2-proxy.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cf-haproxy.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cf-https-connect.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cf-socket.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cfilters.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./conncache.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./connect.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./content_encoding.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cookie.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cshutdn.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_addrinfo.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_des.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_endian.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_fnmatch.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_get_line.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_gethostname.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_gssapi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_memrchr.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_ntlm_core.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_range.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_rtmp.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_sasl.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_sha512_256.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_sspi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_threads.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curl_trc.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cw-out.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./cw-pause.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./dict.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./doh.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./dynhds.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./easy.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./easygetopt.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./easyoptions.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./escape.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./fake_addrinfo.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./file.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./fileinfo.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./fopen.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./formdata.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./ftp.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./ftplistparser.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./getenv.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./getinfo.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./gopher.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./hash.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./headers.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./hmac.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./hostip.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./hostip4.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./hostip6.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./hsts.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http1.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http2.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http_aws_sigv4.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http_chunks.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http_digest.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http_negotiate.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http_ntlm.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./http_proxy.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./httpsrr.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./idn.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./if2ip.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./imap.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./krb5.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./ldap.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./llist.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./macos.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./md4.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./md5.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./memdebug.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./mime.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./mprintf.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./mqtt.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./multi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./multi_ev.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./netrc.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./noproxy.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./openldap.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./parsedate.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./pingpong.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./pop3.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./progress.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./psl.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./rand.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./rename.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./request.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./rtsp.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./select.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./sendf.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./setopt.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./sha256.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./share.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./slist.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./smb.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./smtp.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./socketpair.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./socks.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./socks_gssapi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./socks_sspi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./speedcheck.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./splay.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./strcase.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./strdup.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./strequal.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./strerror.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./system_win32.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./telnet.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./tftp.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./transfer.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./uint-bset.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./uint-hash.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./uint-spbset.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./uint-table.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./url.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./urlapi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./version.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./ws.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/cleartext.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/cram.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/digest.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/digest_sspi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/gsasl.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/krb5_gssapi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/krb5_sspi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/ntlm.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/ntlm_sspi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/oauth2.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/spnego_gssapi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/spnego_sspi.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vauth/vauth.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/cipher_suite.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/gtls.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/hostcheck.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/keylog.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/mbedtls.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/mbedtls_threadlock.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/openssl.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/rustls.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/schannel.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/schannel_verify.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/vtls.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/vtls_scache.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/vtls_spack.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/wolfssl.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vtls/x509asn1.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vquic/curl_msh3.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vquic/curl_ngtcp2.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vquic/curl_osslq.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vquic/curl_quiche.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vquic/vquic.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vquic/vquic-tls.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vssh/libssh.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vssh/libssh2.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vssh/curl_path.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./vssh/wolfssh.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/base64.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/dynbuf.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/inet_ntop.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/inet_pton.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/multibyte.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/nonblock.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/strparse.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/timediff.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/timeval.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/version_win32.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/wait.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/warnless.c.obj"
+		},
+		{
+			"path" : "third_party/curl/lib/CMakeFiles/libcurl_object.dir/./curlx/winapi.c.obj"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"set_property",
+			"include"
+		],
+		"files" : 
+		[
+			"third_party/curl/lib/CMakeLists.txt",
+			"third_party/curl/CMake/PickyWarnings.cmake",
+			"third_party/curl/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 104,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 268,
+				"parent" : 2
+			},
+			{
+				"file" : 1,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 353,
+				"parent" : 4
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 1987,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 117,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 110,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 1954,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 179,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 40,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++17 -MD"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-W4"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4061"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4191"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4255"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4464"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4548"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4574"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4668"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4710"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4711"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4746"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4774"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4820"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd5045"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-MP"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "BUILDING_LIBCURL"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "CURL_HIDDEN_SYMBOLS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "CURL_STATICLIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "HAVE_CONFIG_H"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/jason/Dropbox/PC/Documents/SciLatex/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/libcurl_object_autogen/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Users/jason/Dropbox/PC/Documents/SciLatex/third_party/curl/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Users/jason/Dropbox/PC/Documents/SciLatex/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /O2 /Ob2 /DNDEBUG -MD"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-W4"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wall"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4061"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4191"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4255"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4464"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4548"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4574"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4668"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4710"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4711"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4746"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4774"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd4820"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-wd5045"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-MP"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 7,
+					"define" : "BUILDING_LIBCURL"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "CURL_HIDDEN_SYMBOLS"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "CURL_STATICLIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "HAVE_CONFIG_H"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "C:/Users/jason/Dropbox/PC/Documents/SciLatex/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/libcurl_object_autogen/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "C:/Users/jason/Dropbox/PC/Documents/SciLatex/third_party/curl/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "C:/Users/jason/Dropbox/PC/Documents/SciLatex/build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				197,
+				198,
+				199,
+				200,
+				201,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219,
+				220,
+				221,
+				222,
+				223,
+				224,
+				225,
+				226,
+				227,
+				228,
+				229,
+				230,
+				231,
+				232,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				239,
+				240,
+				241,
+				242,
+				243,
+				244,
+				245,
+				246,
+				247,
+				248,
+				249,
+				250,
+				251,
+				252,
+				253,
+				254,
+				255,
+				256,
+				257,
+				258,
+				259,
+				260,
+				261,
+				262,
+				263,
+				264,
+				265,
+				266,
+				267,
+				268,
+				269,
+				270,
+				271,
+				272,
+				273,
+				274,
+				275,
+				276,
+				277,
+				278,
+				279,
+				280,
+				281,
+				282,
+				283,
+				284,
+				285,
+				286,
+				287,
+				288,
+				289,
+				290,
+				291,
+				292,
+				293,
+				294,
+				295,
+				296,
+				297,
+				298,
+				299,
+				300,
+				301,
+				302,
+				303,
+				304,
+				305,
+				306,
+				307,
+				308,
+				309,
+				310,
+				311,
+				312,
+				313,
+				314,
+				315,
+				316,
+				317,
+				318,
+				319,
+				320,
+				321,
+				322,
+				323,
+				324,
+				325,
+				326,
+				327,
+				328,
+				329,
+				330,
+				331,
+				332,
+				333,
+				334,
+				335,
+				336,
+				337,
+				338,
+				339,
+				340,
+				341,
+				342,
+				343,
+				344,
+				345,
+				346,
+				347,
+				348,
+				349,
+				350,
+				351
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "libcurl_object_autogen_timestamp_deps::@6b6918482087d6a4c893"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "libcurl_object_autogen::@6b6918482087d6a4c893"
+		}
+	],
+	"id" : "libcurl_object::@6b6918482087d6a4c893",
+	"name" : "libcurl_object",
+	"paths" : 
+	{
+		"build" : "third_party/curl/lib",
+		"source" : "third_party/curl/lib"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				186,
+				187,
+				188,
+				189,
+				190,
+				191,
+				192,
+				193,
+				194,
+				195,
+				196,
+				197,
+				198,
+				199,
+				200,
+				201,
+				202,
+				203,
+				204,
+				205,
+				206,
+				207,
+				208,
+				209,
+				210,
+				211,
+				212,
+				213,
+				214,
+				215,
+				216,
+				217,
+				218,
+				219,
+				220,
+				221,
+				222,
+				223,
+				224,
+				225,
+				226,
+				227,
+				228,
+				229,
+				230,
+				231,
+				232,
+				233,
+				234,
+				235,
+				236,
+				237,
+				238,
+				239,
+				240,
+				241,
+				242,
+				243,
+				244,
+				245,
+				246,
+				247,
+				248,
+				249,
+				250,
+				251,
+				252,
+				253,
+				254,
+				255,
+				256,
+				257,
+				258,
+				259,
+				260,
+				261,
+				262,
+				263,
+				264,
+				265,
+				266,
+				267,
+				268,
+				269,
+				270,
+				271,
+				272,
+				273,
+				274,
+				275,
+				276,
+				277,
+				278,
+				279,
+				280,
+				281,
+				282,
+				283,
+				284,
+				285,
+				286,
+				287,
+				288,
+				289,
+				290,
+				291,
+				292,
+				293,
+				294,
+				295,
+				296,
+				297,
+				298,
+				299,
+				300,
+				301,
+				302,
+				303,
+				304,
+				305,
+				306,
+				307,
+				308,
+				309,
+				310,
+				311,
+				312,
+				313,
+				314,
+				315,
+				316,
+				317,
+				318,
+				319,
+				320,
+				321,
+				322,
+				323,
+				324,
+				325,
+				326,
+				327,
+				328,
+				329,
+				330,
+				331,
+				332,
+				333,
+				334,
+				335,
+				336,
+				337,
+				338,
+				339,
+				340,
+				341,
+				342,
+				343,
+				344,
+				345,
+				346,
+				347,
+				348,
+				349,
+				350,
+				351
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117,
+				118,
+				119,
+				120,
+				121,
+				122,
+				123,
+				124,
+				125,
+				126,
+				127,
+				128,
+				129,
+				130,
+				131,
+				132,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				140,
+				141,
+				142,
+				143,
+				144,
+				145,
+				146,
+				147,
+				148,
+				149,
+				150,
+				151,
+				152,
+				153,
+				154,
+				155,
+				156,
+				157,
+				158,
+				159,
+				160,
+				161,
+				162,
+				163,
+				164,
+				165,
+				166,
+				167,
+				168,
+				169,
+				170,
+				171,
+				172,
+				173
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				352
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				353
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/libcurl_object_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/altsvc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/amigaos.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/arpa_telnet.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/asyn.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/bufq.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/bufref.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cf-h1-proxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cf-h2-proxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cf-haproxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cf-https-connect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cf-socket.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cfilters.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/conncache.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cshutdn.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/connect.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/content_encoding.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cookie.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_addrinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_ctype.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_des.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_endian.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_fnmatch.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_get_line.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_gethostname.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_gssapi.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_hmac.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_krb5.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_ldap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_md4.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_md5.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_memory.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_memrchr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_ntlm_core.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_printf.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_range.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_rtmp.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_sasl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_setup.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_setup_once.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_sha256.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_sha512_256.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_sspi.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_threads.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curl_trc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cw-out.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/cw-pause.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/dict.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/doh.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/dynhds.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/easy_lock.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/easyif.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/easyoptions.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/escape.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/fake_addrinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/file.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/fileinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/fopen.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/formdata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/ftp.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/ftplistparser.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/functypes.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/getinfo.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/gopher.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/hash.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/headers.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/hostip.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/hsts.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http1.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http2.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http_aws_sigv4.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http_chunks.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http_digest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http_negotiate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http_ntlm.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/http_proxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/httpsrr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/idn.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/if2ip.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/imap.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/llist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/macos.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/memdebug.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/mime.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/mqtt.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/multihandle.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/multi_ev.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/multiif.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/netrc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/noproxy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/parsedate.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/pingpong.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/pop3.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/progress.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/psl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/rand.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/rename.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/request.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/rtsp.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/select.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/sendf.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/setopt.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/setup-os400.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/setup-vms.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/setup-win32.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/share.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/sigpipe.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/slist.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/smb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/smtp.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/sockaddr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/socketpair.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/socks.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/speedcheck.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/splay.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/strcase.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/strdup.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/strerror.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/system_win32.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/telnet.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/tftp.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/transfer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/uint-bset.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/uint-hash.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/uint-spbset.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/uint-table.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/url.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/urlapi-int.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/urldata.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/ws.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vauth/digest.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vauth/vauth.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/cipher_suite.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/gtls.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/hostcheck.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/keylog.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/mbedtls.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/mbedtls_threadlock.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/openssl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/rustls.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/schannel.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/schannel_int.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/vtls.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/vtls_int.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/vtls_scache.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/vtls_spack.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/wolfssl.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vtls/x509asn1.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vquic/curl_msh3.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vquic/curl_ngtcp2.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vquic/curl_osslq.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vquic/curl_quiche.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vquic/vquic.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vquic/vquic_int.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vquic/vquic-tls.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vssh/curl_path.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/vssh/ssh.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/binmode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/base64.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/curlx.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/dynbuf.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/inet_ntop.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/inet_pton.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/multibyte.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/nonblock.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/strparse.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/timediff.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/timeval.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/version_win32.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/wait.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/warnless.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "third_party/curl/lib/curlx/winapi.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/curl_config.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/altsvc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/amigaos.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/asyn-ares.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/asyn-base.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/asyn-thrdd.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/bufq.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/bufref.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cf-h1-proxy.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cf-h2-proxy.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cf-haproxy.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cf-https-connect.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cf-socket.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cfilters.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/conncache.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/connect.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/content_encoding.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cookie.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cshutdn.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_addrinfo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_des.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_endian.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_fnmatch.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_get_line.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_gethostname.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_gssapi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_memrchr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_ntlm_core.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_range.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_rtmp.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_sasl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_sha512_256.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_sspi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_threads.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curl_trc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cw-out.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/cw-pause.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/dict.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/doh.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/dynhds.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/easy.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/easygetopt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/easyoptions.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/escape.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/fake_addrinfo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/file.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/fileinfo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/fopen.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/formdata.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/ftp.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/ftplistparser.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/getenv.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/getinfo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/gopher.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/hash.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/headers.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/hmac.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/hostip.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/hostip4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/hostip6.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/hsts.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http_aws_sigv4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http_chunks.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http_digest.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http_negotiate.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http_ntlm.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/http_proxy.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/httpsrr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/idn.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/if2ip.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/imap.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/krb5.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/ldap.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/llist.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/macos.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/md4.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/md5.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/memdebug.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/mime.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/mprintf.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/mqtt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/multi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/multi_ev.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/netrc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/noproxy.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/openldap.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/parsedate.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/pingpong.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/pop3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/progress.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/psl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/rand.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/rename.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/request.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/rtsp.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/select.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/sendf.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/setopt.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/sha256.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/share.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/slist.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/smb.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/smtp.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/socketpair.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/socks.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/socks_gssapi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/socks_sspi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/speedcheck.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/splay.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/strcase.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/strdup.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/strequal.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/strerror.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/system_win32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/telnet.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/tftp.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/transfer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/uint-bset.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/uint-hash.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/uint-spbset.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/uint-table.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/url.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/urlapi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/version.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/ws.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/cleartext.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/cram.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/digest.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/digest_sspi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/gsasl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/krb5_gssapi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/krb5_sspi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/ntlm.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/ntlm_sspi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/oauth2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/spnego_gssapi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/spnego_sspi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vauth/vauth.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/cipher_suite.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/gtls.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/hostcheck.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/keylog.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/mbedtls.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/mbedtls_threadlock.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/openssl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/rustls.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/schannel.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/schannel_verify.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/vtls.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/vtls_scache.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/vtls_spack.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/wolfssl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vtls/x509asn1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vquic/curl_msh3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vquic/curl_ngtcp2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vquic/curl_osslq.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vquic/curl_quiche.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vquic/vquic.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vquic/vquic-tls.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vssh/libssh.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vssh/libssh2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vssh/curl_path.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/vssh/wolfssh.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/base64.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/dynbuf.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/inet_ntop.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/inet_pton.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/multibyte.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/nonblock.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/strparse.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/timediff.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/timeval.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/version_win32.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/wait.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/warnless.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "third_party/curl/lib/curlx/winapi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/libcurl_object_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_0_MSVC2022_64bit-Release/third_party/curl/lib/libcurl_object_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

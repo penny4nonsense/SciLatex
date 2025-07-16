@@ -1,0 +1,1159 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"third_party/curl/docs/examples/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 34,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "curl-example-connect-to::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "curl-example-default-scheme::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "curl-example-fileupload::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 5,
+			"id" : "curl-example-ftp-wildcard::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "curl-example-ftpgetresp::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "curl-example-block_ip::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "curl-example-ftpget::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "curl-example-debug::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "curl-example-10-at-a-time::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "curl-example-altsvc::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "curl-example-certinfo::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "curl-example-address-scope::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "curl-example-anyauthput::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "curl-example-chkspeed::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "curl-example-cookie_interface::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "curl-example-externalsocket::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "curl-example-ftp-delete::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 19,
+			"id" : "curl-example-ftpgetinfo::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "curl-example-ftpupload::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 21,
+			"id" : "curl-example-ftpuploadresume::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 22,
+			"id" : "curl-example-getinmemory::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 23,
+			"id" : "curl-example-getredirect::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "curl-example-getinfo::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 25,
+			"id" : "curl-example-getreferrer::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "curl-example-headerapi::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 27,
+			"id" : "curl-example-hsts-preload::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 28,
+			"id" : "curl-example-http-options::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "curl-example-http-post::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 30,
+			"id" : "curl-example-ftpsget::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 31,
+			"id" : "curl-example-http2-download::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 32,
+			"id" : "curl-example-ftpuploadfrommem::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "curl-example-imap-noop::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 34,
+			"id" : "curl-example-imap-create::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "curl-example-http2-serverpush::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 36,
+			"id" : "curl-example-imap-tls::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 37,
+			"id" : "curl-example-httpcustomheader::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "curl-example-keepalive::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 39,
+			"id" : "curl-example-imap-multi::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 40,
+			"id" : "curl-example-https::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "curl-example-imap-list::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "curl-example-http2-upload::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 43,
+			"id" : "curl-example-http3-present::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 44,
+			"id" : "curl-example-httpput::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 45,
+			"id" : "curl-example-imap-authzid::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 46,
+			"id" : "curl-example-imap-examine::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "curl-example-imap-delete::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 48,
+			"id" : "curl-example-http3::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 49,
+			"id" : "curl-example-httpput-postfields::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "curl-example-imap-append::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 51,
+			"id" : "curl-example-imap-copy::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 52,
+			"id" : "curl-example-http2-pushinmemory::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 53,
+			"id" : "curl-example-imap-fetch::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 54,
+			"id" : "curl-example-imap-lsub::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 55,
+			"id" : "curl-example-imap-search::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 56,
+			"id" : "curl-example-imap-ssl::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 57,
+			"id" : "curl-example-imap-store::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 58,
+			"id" : "curl-example-interface::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 59,
+			"id" : "curl-example-ipv6::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 60,
+			"id" : "curl-example-maxconnects::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 61,
+			"id" : "curl-example-multi-app::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 62,
+			"id" : "curl-example-localport::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 63,
+			"id" : "curl-example-multi-debugcallback::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 64,
+			"id" : "curl-example-multi-double::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 65,
+			"id" : "curl-example-multi-post::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 66,
+			"id" : "curl-example-multi-single::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 67,
+			"id" : "curl-example-netrc::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 68,
+			"id" : "curl-example-parseurl::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 69,
+			"id" : "curl-example-persistent::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 70,
+			"id" : "curl-example-multi-legacy::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 71,
+			"id" : "curl-example-pop3-authzid::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 72,
+			"id" : "curl-example-pop3-dele::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 73,
+			"id" : "curl-example-multi-formadd::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 74,
+			"id" : "curl-example-pop3-list::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 75,
+			"id" : "curl-example-pop3-multi::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 76,
+			"id" : "curl-example-sftpget::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 77,
+			"id" : "curl-example-shared-connection-cache::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 78,
+			"id" : "curl-example-pop3-ssl::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 79,
+			"id" : "curl-example-pop3-stat::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 80,
+			"id" : "curl-example-pop3-uidl::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 81,
+			"id" : "curl-example-pop3-top::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 82,
+			"id" : "curl-example-sepheaders::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 83,
+			"id" : "curl-example-smtp-mime::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 84,
+			"id" : "curl-example-smtp-multi::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 85,
+			"id" : "curl-example-postit2-formadd::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 86,
+			"id" : "curl-example-pop3-noop::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 87,
+			"id" : "curl-example-postinmemory::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 88,
+			"id" : "curl-example-postit2::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 89,
+			"id" : "curl-example-progressfunc::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 90,
+			"id" : "curl-example-post-callback::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 91,
+			"id" : "curl-example-protofeats::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 92,
+			"id" : "curl-example-pop3-tls::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 93,
+			"id" : "curl-example-range::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 94,
+			"id" : "curl-example-resolve::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 95,
+			"id" : "curl-example-rtsp-options::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 96,
+			"id" : "curl-example-sendrecv::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 97,
+			"id" : "curl-example-pop3-retr::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 98,
+			"id" : "curl-example-sftpuploadresume::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 99,
+			"id" : "curl-example-smtp-authzid::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 100,
+			"id" : "curl-example-simplepost::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 101,
+			"id" : "curl-example-simplessl::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 102,
+			"id" : "curl-example-smtp-expn::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 103,
+			"id" : "curl-example-simple::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 104,
+			"id" : "curl-example-smtp-mail::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 105,
+			"id" : "curl-example-smtp-tls::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 106,
+			"id" : "curl-example-sslbackend::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 107,
+			"id" : "curl-example-smtp-ssl::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 108,
+			"id" : "curl-example-urlapi::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 109,
+			"id" : "curl-example-websocket::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 110,
+			"id" : "curl-example-websocket-cb::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 111,
+			"id" : "curl-example-smtp-vrfy::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 112,
+			"id" : "curl-example-unixsocket::@17fe8ebcbc87ca336164"
+		},
+		{
+			"backtrace" : 113,
+			"id" : "curl-example-url2file::@17fe8ebcbc87ca336164"
+		}
+	],
+	"id" : "curl-examples::@17fe8ebcbc87ca336164",
+	"name" : "curl-examples",
+	"paths" : 
+	{
+		"build" : "third_party/curl/docs/examples",
+		"source" : "third_party/curl/docs/examples"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
