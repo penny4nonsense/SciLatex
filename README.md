@@ -18,6 +18,7 @@
 ### Prerequisites
 
 Windows x64 version: None
+
 Building on Mac/Linux:
 - Qt 6.8+ (Only dependency not vendorized — must be installed separately)
 - CMake 3.16+
